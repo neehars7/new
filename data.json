@@ -1,0 +1,42 @@
+{
+ "carrerobjective":{"info":"To pursue a challenging job and to learn more skills"
+ },
+"education":[
+ {
+   "degree":"SSC",
+   "school":"slchs",
+   "data":["2013","92%"]
+ },
+ {
+   "degree":"INTERMEDIATE",
+   "school":"narayana",
+   "data":["2015","88"]
+ },
+ {
+   "degree":"GRADUATION",
+   "school":"svec",
+   "data":["2019","80"]
+ }
+],
+"skills":[
+ {
+   "name":"operating system",
+   "info":["windows","linux","fedora","ubuntu","redhat"]
+ },
+ {
+     "name":"languages",
+     "info":["c","data structures","c++","core java","python"]
+ },
+ {
+   "name":"databases",
+   "info":["oracle","Mysql","mongoDB","cybase"]
+ },
+ {
+   "name":"Web technologies",
+   "info":["html","css","javascript"]
+ },
+ {
+   "name":"Frameworks",
+   "info":["bootstrap",".net"]
+ }
+]}
